@@ -21,9 +21,8 @@ Next edit the nbackHRPG.conf file to update your HabitRPG user id and api token.
 
 This next bit is the tricky part. You'll need to edit whatever script you use to launch Brain Workshop so that it runs 'python nbackHRPG.py' after running Brain Workshop.
 
-In Linux, this can easily be done with the following launch file:
+In Linux, this can easily be done with the following bash launch file:
 
-#!/bin/bash
 export DISPLAY=:0.0
 cd $(dirname $0)
 python brainworkshop.pyw
