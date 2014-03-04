@@ -11,6 +11,7 @@ This script rewards your HabitRPG account for every 100 trials completed in Brai
 
 1. HabitRPG.com
 2. http://brainworkshop.sourceforge.net/
+3. Python
 
 Installation
 ============
